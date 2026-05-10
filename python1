@@ -1,4 +1,8 @@
 This is python1
 added worst code
 version 1.2.3
-version 1.2.3.4.5
+<<<<<<< HEAD
+
+=======
+version 1.2.3.4
+>>>>>>> developer
